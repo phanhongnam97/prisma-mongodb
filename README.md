@@ -6,9 +6,12 @@ Primsa with Mongodb repository.
 
 ```bash
 $ yarn install
+```
 
-# generate prisma schema
-$ npx primsa generate
+## Generate prisma schema
+
+```bash
+$ npx prisma generate
 ```
 
 ## Running the app
